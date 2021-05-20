@@ -16,7 +16,7 @@ team agreement repo
 # Cooperation Plan
 * we know that no body in the same level and each team member has his own point of strength:
 |member|strength point|point nedd to be developed in|
-|-------------------------------|------------------------------------------|
+|-------------------------------|------------------------------------------|-----------------------------------|
 |Amro Nazzal|good leadership ,good at back end|improve in css |
 |Dania Abughoush|good at solve git hub conflict,good at backend |improve front end |
 |Enas Batayneh|good at front end,good at css and styling |improve backend |
