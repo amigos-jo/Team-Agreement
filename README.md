@@ -17,9 +17,9 @@ team agreement repo
 * we know that no body in the same level and each team member has his own point of strength:
 
 
-|member|strength point|point nedd to be developed in|how to utilize the strength point|
+|member|strength point|point need to be developed |how to utilize the strength point|
 |-----------------------|---------------------------|------------------------------|------------------------------|
-|Amro Nazzal|good leadership ,good at back end|improve in css |lead the team,divid roles,work in backend|
+|Amro Nazzal|good leadership ,good at back end|improve in css |lead the team,divide roles,work in backend|
 |Dania Abughoush|good at solve git hub conflict,good at backend |improve front end,and the crud method |manages push in git hub,helping in back end|
 |Enas Batayneh|good at front end,good at css and styling |improve backend |work at front end and styling|
 |Dina Khaleel|good at backend and styling|need to improve front end method|help in backend and styling|
@@ -30,7 +30,7 @@ team agreement repo
 # we will follow day by day aspects by :
 * meeting every day and *
 * checking our  mission and tasks ,*
-* and creat terollo board
+* and create trello board
 
 
 # Our group’s process to resolve conflict, when it arises.
@@ -55,7 +55,7 @@ we will ask other for help and TAs
 * if someone start to fallbehind they will increase the working hours
 * we will let every body feel welcome .
 
-# work plane:
+# work plan:
 * task will be divided upon each person strength points and will using terollo cards to mange and divided tasks
 
 
